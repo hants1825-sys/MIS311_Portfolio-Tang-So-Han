@@ -20,10 +20,12 @@
 ## Descriptive Statistics
 
 <img width="567" height="550" alt="image" src="https://github.com/user-attachments/assets/53ceba41-c869-42e6-b368-1c0a8931e618" />
+
 Based on the provided dataset of 188 vehicles, the electric vehicle (EV) market exhibits a high degree of brand concentration, with Tesla maintaining a dominant market share of approximately 39.4% (74 units). This leadership, followed by established players like Nissan (38 units) and Kia (19 units), underscores a consumer preference for brands with mature EV infrastructures. Furthermore, the aggregate mean model year of 2018.7 indicates a relatively modern fleet, while the recent emergence of 2024 models from diverse manufacturers such as Lexus and Mercedes-Benz reflects an accelerating trend toward electrification across both the mass-market and luxury automotive sectors.
 
 - **Insight 1: Chronological Growth and Diversification of the Electric Vehicle Fleet**. The data illustrates a dual trend of exponential volume growth and expanding brand portfolio over the last decade
 <img width="839" height="512" alt="image" src="https://github.com/user-attachments/assets/407fdf34-b0f3-4aaa-87fa-5691196e9a3e" />
+
 The bar chart illustrates a significant surge in vehicle acquisition between 2018 and 2020, accounting for approximately 45.7% of the total fleet (86 out of 188 units). While adoption peaked in 2020 with 31 units (16.5%), there was a noticeable contraction in 2021, followed by a steady recovery through 2023 and 2024, each contributing 14 units (7.4%). This trend suggests that while the market experienced a period of rapid expansion in the late 2010s, it is currently entering a new phase of sustained growth with the introduction of latest-generation models.
 - **Insight 2: Competitive Landscape and Manufacturer Dominance**. 
 <img width="745" height="454" alt="image" src="https://github.com/user-attachments/assets/85f09c69-d8f2-4d22-9499-1a6dd2422bce" />
