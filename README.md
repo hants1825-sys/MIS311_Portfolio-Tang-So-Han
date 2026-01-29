@@ -28,6 +28,6 @@ Based on the provided dataset of 188 vehicles, the electric vehicle (EV) market 
 
 The bar chart illustrates a significant surge in vehicle acquisition between 2018 and 2020, accounting for approximately 45.7% of the total fleet (86 out of 188 units). While adoption peaked in 2020 with 31 units (16.5%), there was a noticeable contraction in 2021, followed by a steady recovery through 2023 and 2024, each contributing 14 units (7.4%). This trend suggests that while the market experienced a period of rapid expansion in the late 2010s, it is currently entering a new phase of sustained growth with the introduction of latest-generation models.
 - **Insight 2: Competitive Landscape and Manufacturer Dominance**. 
-<img width="745" height="454" alt="image" src="https://github.com/user-attachments/assets/85f09c69-d8f2-4d22-9499-1a6dd2422bce" />
+<img width="750" height="453" alt="image" src="https://github.com/user-attachments/assets/29c7bdd6-5d34-4294-b5a3-41745120e163" />
 
 The chart shows that Tesla maintains an overwhelming lead in the market with 74 units, nearly doubling the volume of its closest competitor, Nissan (38 units). This significant gap, followed by a long tail of manufacturers like Kia (19 units) and BMW (15 units), highlights a highly concentrated market structure dominated by early EV specialists. However, the presence of over 20 different brands, including luxury and emerging makers like Rivian, Lucid, and Mercedes-Benz, indicates a rapidly diversifying ecosystem where traditional automakers are steadily expanding their footprint.
