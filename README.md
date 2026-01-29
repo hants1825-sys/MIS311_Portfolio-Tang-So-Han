@@ -18,6 +18,12 @@ Handling Missing Values: Detected 14 missing entries in location-based columns. 
 - Make: Missing 2 values (E16, E97)
 - Model: Missing 1 value (F59)
 Handling Duplicates: Identified and removed 3 duplicate records to ensure data integrity and avoid overcounting specific vehicles.
+
 => After deletion, there are 189 rows and 6 columns left.
+## Descriptive Statistics
+
+<img width="567" height="550" alt="image" src="https://github.com/user-attachments/assets/53ceba41-c869-42e6-b368-1c0a8931e618" />
+
+
 
 
